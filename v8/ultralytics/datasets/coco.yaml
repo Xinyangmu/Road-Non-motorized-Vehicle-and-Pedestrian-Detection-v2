@@ -1,0 +1,6 @@
+train: /home/dzy/tmp/road/yolo_format/traindata/
+val: /home/dzy/tmp/road/yolo_format/valdata/
+
+nc: 2
+names: ['person', 'bicycle']
+
